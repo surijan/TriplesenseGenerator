@@ -1,2 +1,8 @@
-node_modules
+node_modules/bower
+node_modules/grunt
+node_modules/grunt_cli
+node_modules/yeoman
+node_modules/yo
+node_modules/LICENCE
+node_modules/README.md
 .project
