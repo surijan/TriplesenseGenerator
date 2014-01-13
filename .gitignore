@@ -1,6 +1,6 @@
 node_modules/bower
 node_modules/grunt
-node_modules/grunt_cli
+node_modules/grunt-cli
 node_modules/yeoman
 node_modules/yo
 node_modules/LICENCE
